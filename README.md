@@ -1,4 +1,4 @@
-# ⭐ Hi, I'm **Mariam Sikharulidze**  
+# ⭐ About Me:**  
 
 ---
 
