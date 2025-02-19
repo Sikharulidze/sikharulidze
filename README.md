@@ -4,17 +4,9 @@
 
 # 🌐 Socials: 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/mariam.sixarulidze.73">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/sikharulidzemariamii/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
+    <a href="https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/sikharulidzemariamii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+     <a href="https://www.facebook.com/mariam.sixarulidze.73"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
