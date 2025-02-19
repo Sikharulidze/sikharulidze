@@ -22,4 +22,6 @@
 
 
 📊 GitHub Stats:
+---
+
 ![Sikharulidze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sikharulidze&show_icons=true&theme=dark)
