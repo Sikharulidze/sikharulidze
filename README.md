@@ -37,8 +37,4 @@
 
 ---
 
-# 🔝 Pinned Repositories  
-[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Sikharulidze&repo=portfolio)](https://github.com/Sikharulidze/portfolio)  
-[![Project X](https://github-readme-stats.vercel.app/api/pin/?username=Sikharulidze&repo=project-x)](https://github.com/Sikharulidze/project-x)
-
 
