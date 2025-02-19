@@ -3,20 +3,18 @@
 ---
 
 # 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.sixarulidze.73)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikharulidzemariamii/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.sixarulidze.73)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sikharulidzemariamii/)  
 
 ---
 
 # 🌟 Technologies & Tools  
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=flat)](https://ejs.co/)  
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)  
 
 ---
 
@@ -33,6 +31,5 @@
 # 🔝 Pinned Repositories  
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Sikharulidze&repo=portfolio)](https://github.com/Sikharulidze/portfolio)  
 [![Project X](https://github-readme-stats.vercel.app/api/pin/?username=Sikharulidze&repo=project-x)](https://github.com/Sikharulidze/project-x)
-
 
 
