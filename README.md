@@ -1,12 +1,6 @@
 ⭐ About Me:
 
 
-📊 GitHub Stats:
-![Sikharulidze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sikharulidze&show_icons=true&theme=dark)
-
-
-
-
 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.sixarulidze.73)
@@ -21,3 +15,5 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
+📊 GitHub Stats:
+![Sikharulidze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sikharulidze&show_icons=true&theme=dark)
