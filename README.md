@@ -1,17 +1,16 @@
-# ⭐ About Me:
-
+# ⭐ Hi, I'm **Mariam Sikharulidze**  
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-sikharulidze-094a2a351/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mariam.sixarulidze.73)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikharulidzemariamii/)  
 
 ---
 
-# 🌟 Technologies & Tools
+# 🌟 Technologies & Tools  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -21,14 +20,19 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![Sikharulidze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sikharulidze&show_icons=true&theme=dark)
+# 📊 GitHub Stats  
+![Sikharulidze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sikharulidze&show_icons=true&count_private=true&theme=dark)
 
 ---
 
-# 🔥 GitHub Streak
-
+# 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sikharulidze&theme=dark)
+
+---
+
+# 🔝 Pinned Repositories  
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Sikharulidze&repo=portfolio)](https://github.com/Sikharulidze/portfolio)  
+[![Project X](https://github-readme-stats.vercel.app/api/pin/?username=Sikharulidze&repo=project-x)](https://github.com/Sikharulidze/project-x)
+
 
 
