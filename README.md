@@ -28,10 +28,7 @@
 
 ---
 
-# 📊 GitHub Stats  
-![Sikharulidze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sikharulidze&show_icons=true&count_private=true&theme=dark)
 
----
 
 # 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sikharulidze&theme=dark)
